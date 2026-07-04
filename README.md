@@ -1,4 +1,4 @@
-# Clipboard Manager (`clip`)
+# Clipboard Manager (using `clip`)
 
 A simple, command-line based clipboard manager built with Python. It allows you to save, list, copy, search, and manage your clipboard history efficiently right from your terminal.
 
@@ -29,7 +29,6 @@ A simple, command-line based clipboard manager built with Python. It allows you 
    ```
 
 ## Usage
-
 You can run the script directly using Python:
 
 ```bash
